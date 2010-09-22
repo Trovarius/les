@@ -1,0 +1,5 @@
+C:\Users\Tordek\documents\visual studio 2010\Projects\LES\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Tordek\documents\visual studio 2010\Projects\LES\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Tordek\documents\visual studio 2010\Projects\LES\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tordek\documents\visual studio 2010\Projects\LES\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Tordek\documents\visual studio 2010\Projects\LES\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

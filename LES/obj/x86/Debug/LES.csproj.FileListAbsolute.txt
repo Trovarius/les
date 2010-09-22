@@ -1,0 +1,8 @@
+C:\Users\Tordek\documents\visual studio 2010\Projects\LES\LES\bin\Debug\LES.exe
+C:\Users\Tordek\documents\visual studio 2010\Projects\LES\LES\bin\Debug\LES.pdb
+C:\Users\Tordek\documents\visual studio 2010\Projects\LES\LES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tordek\documents\visual studio 2010\Projects\LES\LES\obj\x86\Debug\LES.Properties.Resources.resources
+C:\Users\Tordek\documents\visual studio 2010\Projects\LES\LES\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Tordek\documents\visual studio 2010\Projects\LES\LES\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Tordek\documents\visual studio 2010\Projects\LES\LES\obj\x86\Debug\LES.exe
+C:\Users\Tordek\documents\visual studio 2010\Projects\LES\LES\obj\x86\Debug\LES.pdb

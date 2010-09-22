@@ -1,1 +1,1 @@
-﻿Este arquivo tem apenas algumas informações sobre o projeto
+﻿Esse arquivo contem informações sobre o projeto
